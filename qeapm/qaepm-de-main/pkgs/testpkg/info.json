@@ -1,0 +1,12 @@
+{
+    "pkgName": "Test Package",
+    "pkgVersion": "0",
+    "pkgModificationDate": "30/10/21",
+    "pkgFile": "hello-world.zip",
+    "pkgDescription": "A simple Hello World program.",
+    "pkgGenre": "Development",
+    "pkgDeveloper": "<DevName>",
+    "pkgYearCreation": "2021",
+    "pkgSiteUrl": "none",
+    "pkgDevSiteUrl": "https://github.com/<devRepo>"
+}
